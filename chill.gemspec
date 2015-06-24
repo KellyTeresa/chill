@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'brian.g.fink@gmail.com'
   s.files       = ["lib/chill.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/chill'
+    'http://rubygems.org/gems/ride_the_chill_wave'
   s.license       = 'Launch'
 end
