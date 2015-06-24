@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'chill'
+  s.name        = 'ride_the_chill_wave'
   s.version     = '0.0.0'
   s.date        = '2015-06-23'
   s.summary     = "Everything is chill, man"
