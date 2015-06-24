@@ -1,8 +1,12 @@
-class Object
+class BasicObject
   def chill?
-    true
+    unless self == 'Andrew'
+      true
+    else
+      false
+    end
   end
   def is_chill?
-    true
+    chill?
   end
 end
