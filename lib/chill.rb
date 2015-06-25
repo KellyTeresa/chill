@@ -1,5 +1,3 @@
-require 'pry'
-
 class BasicObject
   def chill?
     unless self == 'Andrew'
