@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'ride_the_chill_wave'
-  s.version     = '2.0.1'
+  s.version     = '2.0.3'
   s.date        = '2015-06-23'
   s.summary     = "Everything is chill, man"
   s.description = "Helps you chill out when coding Ruby. Require 'chill' and then call .chill? or .is_chill? on any of your Ruby objects to find out if they are chill or not (spoiler: they probably are).
